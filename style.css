@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    font-size: 25px;
+    
+}
+
+.container
+{
+    text-align: center;
+}
+
+
+#myCarousel{
+    background-color: lightcoral;
+    
+}
+#myCarousel img{
+    height: 400px;
+    margin-top: 35px;
+    
+}
+.carousel-inner p{
+    margin-bottom: 30px;
+    margin-top: 30px;
+    color: aliceblue;
+    font-size: 20px;
+    
+}
